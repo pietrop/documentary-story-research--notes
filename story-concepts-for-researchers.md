@@ -21,7 +21,7 @@ Some things to consider:
 
 Pitching Verbally: Hook and Concise
 
-identify the USP=Unique Selling Point
+identify the USP = Unique Selling Point
 
 ### **Broadcast Examples**
 
@@ -43,26 +43,7 @@ For instance 24hours in A&E - For example of Story Telling.
 
 ![](https://img1.blogblog.com/img/video_object.png)
 
-### “The Seven Basic Plots”
 
-Christopher Booker's anatomy of the story, .
-
-1-Voyage and return  
-Concept “Grass is Greener the other side”  
-ie The Devils Wear Prada
-
-2-Overcoming the Monster
-
-3-The Quest / Heroes Journey. also “ Inner journey”  
-ie Odissey ,10 000 DC,
-
-4- Rebirth
-
-5- Rags to Riches
-
-6- Tragedy
-
-7 - Comedy
 
 ## Sources and Resources
 
