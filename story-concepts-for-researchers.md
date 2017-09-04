@@ -41,7 +41,7 @@ and the idea of Resolution/Pay off.
 For instance 24hours in A&E - For example of Story Telling.  
 [http://youtu.be/glThFK3qyQU](http://youtu.be/glThFK3qyQU)
 
-![](https://img1.blogblog.com/img/video_object.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glThFK3qyQU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 
