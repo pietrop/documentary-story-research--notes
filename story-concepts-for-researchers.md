@@ -23,15 +23,20 @@ Pitching Verbally: Hook and Concise
 
 identify the USP = Unique Selling Point
 
-### **Broadcast Examples**
+### Broadcast Examples
 
 Clip example 4  
-C4 “Educating Essex” s01e01 - min 02:10 Pause  
+C4 "Educating Essex" s01e01 - min 02:10 Pause  
 example of great Access
 
-![](https://img1.blogblog.com/img/video_object.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwW3BWdkUFE?rel=0&amp;start=130" frameborder="0" allowfullscreen></iframe>
+
+<!--
 
 [http://www.youtube.com/watch?v=QxUShvUA\_Vo&feature=share&list=PLC3DEFA25604C23](http://www.youtube.com/watch?v=QxUShvUA_Vo&feature=share&list=PLC3DEFA25604C23)
+
+-->
 
 it is useful to deconstruct program, thinking of “Why it worked” or “Why it didn’t work”?
 
