@@ -19,12 +19,3 @@
 * [Interviewing techniques](interviewing-techniques.md)
 * [Risk and legal](risk-and-legal.md)
 
-## Online Research
-
-* [search engine and www](online-research/search-engine-and-www.md)
-* [Understanding Domains Names for Research](online-research/understanding-domains-names-for-research.md)
-* [Computer Footprint and Anonymizers](online-research/computer-footprint-and-anonymizers.md)
-* [emails searching and tracing](online-research/emails-searching-and-tracing.md)
-* [social media searches](online-research/social-media-searches.md)
-* [what you can find out about a property](online-research/what-you-can-find-out-about-a-property.md)
-
