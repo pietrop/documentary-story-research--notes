@@ -1,12 +1,11 @@
 # Interview techniques
 
-- **Cut out voice from question**
+**Cut out voice from question**
 - avoid voice overlapping
 - incorporate question in answer
 
 
-
-- **open questions rather then closed once**ie
+**open questions rather then closed once**ie
 
 Tell me about ...
 
@@ -17,18 +16,16 @@ Take me back to the moment where/when...
 Take me trough the moment when/where ...
 
 
-
 What?Why? How?
-
-
 
 What is the worst that can happen? \(
 
 What is the worst that can happen if..?
 
 
+Start wide --> go specific
 
-Start wide -&gt; go specific \[imbuto image\]
+ <!-- \[imbuto image\]-->
 
 
 
