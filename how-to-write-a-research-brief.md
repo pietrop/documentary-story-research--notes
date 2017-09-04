@@ -30,22 +30,17 @@ Depending on it's purpouse, doing it for a “Giest” is shorten then a “Clue
 
 ### a possible outline for a Research brief:
 
-\[see[template](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit) similar to the one used by “country farm” and this “morning”\]  
-1- Title  
-2- Top Line  
-3- Background Story  
-4- What Can we see  
-5- who we can talk to  
-6- (on back) Facts & Figures  
-7-Mine fields \(ie possible issues to be aware of\)
+see [template](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit) similar to the one used by “country farm” and this “morning”.
+
+1. Title  
+2. Top Line  
+3. Background Story  
+4. What Can we see  
+5. who we can talk to  
+6. (on back) Facts & Figures  
+7. Mine fields (ie possible issues to be aware of)
 
 ## Sources and Resources
 
-[Research Brief Template ](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit)
-
-[Research Brief Template V2](https://docs.google.com/document/d/1aAZUtIfKL1vPnqa9etXQQnLgC5UwsDkzWAMf60Sztkc/edit)
-
-## 
-
-
-
+- [Research Brief Template ](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit)
+- [Research Brief Template V2](https://docs.google.com/document/d/1aAZUtIfKL1vPnqa9etXQQnLgC5UwsDkzWAMf60Sztkc/edit)
