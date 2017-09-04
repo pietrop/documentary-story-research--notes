@@ -1,4 +1,4 @@
-# \#Reliable Sources - What happens when things go wrong \(an example\) 
+#Reliable Sources - What happens when things go wrong (an example) 
 
 ## What can happen if you don't identify non legit sources when you are researching something for a broadcaster?
 
@@ -8,29 +8,21 @@
 
 Here is the interview: 
 
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-\[tip: watch up to min 00:37 then pause  \]
+<!-- tip: watch up to min 00:37 then pause  -->
 
- and here is what was happening behind the scene:
-
-  
-
-
----
+and here is what was happening behind the scene:
 
   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OazUh0Ym8rc?rel=0&amp;start=1585" frameborder="0" allowfullscreen></iframe>
 
+
+
+<!--  tip: fast forward to min 26:25 to see the behind the scene of the BBC world interview, for some context. -->
 
   
-
-
-\[  tip: fast forward to min 26:25 to see the behind the scene of the BBC world interview, for some context.\]
-
-  
-
-
 ### So, what went wrong for the researcher?
 
 He failed to identify a unreliable source, a fake website, posing as the original.
@@ -82,14 +74,10 @@ Here is the behind the scenes:
 
 it also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
 
-**  
-**
 
-## **Sources and Resources**:
+## Sources and Resources:
 
-Course: [BBC Production Research Course](http://www.bbcacademy.com/bbc/servlet/ekp?CID=20010727&TX=FORMAT1&BACKTOCATALOG=Y)
-
-Documentary: [The Yes Man Fix the world](http://http//dogwoof.com/films/the-yes-men-fix-the-world)
-
-Book: [Research for Media Production](http://www.amazon.co.uk/gp/product/0240516486/ref=oh_details_o02_s00_i00), Kathy Chater
+- Course: [BBC Production Research Course](http://www.bbcacademy.com/bbc/servlet/ekp?CID=20010727&TX=FORMAT1&BACKTOCATALOG=Y)
+- Documentary: [The Yes Man Fix the world](http://http//dogwoof.com/films/the-yes-men-fix-the-world)
+- Book: [Research for Media Production](http://www.amazon.co.uk/gp/product/0240516486/ref=oh_details_o02_s00_i00), Kathy Chater
 
