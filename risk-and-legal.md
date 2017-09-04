@@ -5,7 +5,7 @@ to take into account when researching
 is there a current ongoing court case?
 find out if there is a active court case,  involving the subject or the contributor, as this might couse risk of contempt or deffamation.
 
-4.3.1 Comtempt 
+## 1 Comtempt 
 
 4.3.2 Deffmation of carachter
 def= Lowering of someone's standard in the eyes of the peers
