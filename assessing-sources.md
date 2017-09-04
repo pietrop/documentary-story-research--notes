@@ -6,6 +6,5 @@
 
 Here is the interview: 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
