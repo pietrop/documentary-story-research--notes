@@ -12,7 +12,9 @@
   * [Research brief template](how-to-write-a-research-brief/research-brief-template.md)
 * [Story concepts for researchers](story-concepts-for-researchers.md)
   * [The seven basic plots](story-concepts-for-researchers/the-seven-basic-plots.md)
+  * [casting questions](story-concepts-for-researchers/casting-questions.md)
 * [Assessing sources](assessing-sources.md)
+* [Interviewing techniques](interviewing-techniques.md)
 
 ## Online Research
 
