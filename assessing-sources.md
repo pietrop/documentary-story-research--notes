@@ -57,8 +57,6 @@ the fake website: http://www.dowethics.com    and   real website: http://www
 
 Is with the world trade organization , Real website:  [wto.org](http://www.wto.org/) - fake:  [gatt.org](http://www.gatt.org/) .
 
-  
-
 
 [![](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/NY_times.jpg "NY Times")](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/NY_times.jpg)The guys behind these oax, where making a documentary called "The Yes Men fix the world" where posing as their industrious alter-egos, where exposing corporation's faults and responsibilities.
 
@@ -69,10 +67,12 @@ Another example of a oax they did was with a  Fake New York Times, "special ed
 
 Here is the behind the scenes:
 
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoZQNgAnvqs?rel=0" frameborder="0" allowfullscreen></iframe>  
 
 
-it also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
+It also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
+
+![NY Times Special Edition](/assets/NYTimes-se.png)
 
 
 ## Sources and Resources:
