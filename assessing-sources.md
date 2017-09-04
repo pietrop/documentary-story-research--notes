@@ -1,4 +1,4 @@
-#Reliable Sources - What happens when things go wrong (an example) 
+# Reliable Sources - What happens when things go wrong (an example) 
 
 ## What can happen if you don't identify non legit sources when you are researching something for a broadcaster?
  
@@ -29,8 +29,12 @@ He failed to identify a unreliable source, a fake website, posing as the origina
 
 the fake website: http://www.dowethics.com    and   real website: http://www.dow.com
 
-![](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/DOW_Fake.png)![](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/DOW_Real.png)
+<!--
+![](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/DOW_Fake.png)
 
+![](https://dl.dropbox.com/u/449999/tipsandtricksandquickfix%20-%20blog/picture%20folder/smart%20research%20article-what%20happened%20when%20you%20get%20soures%20wrong/DOW_Real.png)
+
+-->
   
 
 

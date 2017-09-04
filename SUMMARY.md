@@ -1,5 +1,7 @@
 # Summary
 
+## Research 101
+
 * [Introduction](README.md)
 * [Smart research principles](smart-research-principles.md)
   * [sources](smart-research-principles/sources.md)
