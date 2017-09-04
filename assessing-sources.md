@@ -53,7 +53,7 @@ the fake website: http://www.dowethics.com    and   real website: http://www
 
 
 
-### Another  examples
+### Another examples
 
 Is with the world trade organization , Real website:  [wto.org](http://www.wto.org/) - fake:  [gatt.org](http://www.gatt.org/) .
 
@@ -61,7 +61,7 @@ The guys behind these hoax, where making a documentary called "The Yes Men fix t
 
 Another example of a oax they did was with a  Fake New York Times, "special editions":
 
-  
+![NY Times Special Edition](/assets/NYTimes-se.png)
 
 
 Here is the behind the scenes:
@@ -70,8 +70,6 @@ Here is the behind the scenes:
 
 
 It also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
-
-![NY Times Special Edition](/assets/NYTimes-se.png)
 
 
 ## Sources and Resources:
