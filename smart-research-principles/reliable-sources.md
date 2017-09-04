@@ -2,7 +2,7 @@
 
 When you ask who might have already researched the topic, to asses reliability you need to find multiple sources. Using the Journalistic rule of 3: Cross checking with at least 3 sources.
 
-## 1 Start from a safe website:
+## 1 Start from a 'safe website':
 - Academic department website
 - Campaign organizations, and ask or look for case studies
 
