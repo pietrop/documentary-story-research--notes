@@ -38,7 +38,7 @@ the fake website: http://www.dowethics.com    and   real website: http://www
 
 2. **Google search the url**, and see if it comes up in any forum, or with anyone questioning if it's legitimate.
 
-3. **Verify Domain Ownership**, using: [Domaintools.com](http://www.domaintools.com/)[whois.com](http://www.whois.com/)  - Search who owns it looking at the details section of the website:
+3. **Verify Domain Ownership**, using: [Domaintools.com](http://www.domaintools.com/), [whois.com](http://www.whois.com/)  - Search who owns it looking at the details section of the website:
 
 - the **adress**, check in google mpas, does it seem fake? or do they withhold info? big companies generally don’t   hide contact details
 
@@ -67,9 +67,11 @@ Here is the behind the scenes:
 It also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
 
 
+
+
 ## Sources and Resources:
 
 - Course: [BBC Production Research Course](http://www.bbcacademy.com/bbc/servlet/ekp?CID=20010727&TX=FORMAT1&BACKTOCATALOG=Y)
 - Documentary: [The Yes Man Fix the world](http://http//dogwoof.com/films/the-yes-men-fix-the-world)
-- Book: [Research for Media Production](http://www.amazon.co.uk/gp/product/0240516486/ref=oh_details_o02_s00_i00), Kathy Chater
+- Book:  [Research for Media Production](http://amzn.eu/8wyTJgJ), Kathy Chater
 
