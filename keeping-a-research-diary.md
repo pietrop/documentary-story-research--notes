@@ -38,5 +38,6 @@ At end of the day, it's usefull to draft the outline with the things to do the n
 Last but not least Never Assume, always check.**  
 **
 
+<!-- TODO: add that This can also be used as a legal document if you get sued for whatever reason -->
 
 

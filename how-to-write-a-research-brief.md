@@ -2,7 +2,7 @@
 
 ## Research Brief how to write it
 
-[![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fpastormojo.com%2Fwp-content%2Fuploads%2F2007%2F06%2Ficeberg1.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)](http://pastormojo.com/wp-content/uploads/2007/06/iceberg1.jpg)
+![iceberg](/assets/iceberg.jpg)
 
 Objective of a research brief is to convey/to communicate to the team 10% \[iceberg diagram with 90% under water \]
 
@@ -36,7 +36,7 @@ Depending on it's purpouse, doing it for a “Giest” is shorten then a “Clue
 3- Background Story  
 4- What Can we see  
 5- who we can talk to  
-6- \(on back\) Facts & Figures  
+6- (on back) Facts & Figures  
 7-Mine fields \(ie possible issues to be aware of\)
 
 ## Sources and Resources
