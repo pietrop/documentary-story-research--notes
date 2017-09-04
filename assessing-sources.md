@@ -19,11 +19,13 @@ And here is what was happening behind the scene
 
 <!--  tip: fast forward to min 26:25 to see the behind the scene of the BBC world interview, for some context. -->
 
-### So, what went wrong for the researcher?
+### So, What went wrong for the researcher?
 
-He failed to identify a unreliable source, a fake website, posing as the original.
+They failed to identify a unreliable source, a fake website, posing as the original.
 
-the fake website: http://www.dowethics.com and real website: http://www.dow.com
+The fake website: 
+
+http://www.dowethics.com and real website: http://www.dow.com
 
 
 
