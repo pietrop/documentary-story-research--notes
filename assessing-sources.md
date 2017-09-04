@@ -2,7 +2,7 @@
 
 What happens when things go wrong, an example
 
-## What can happen if you don't identify non legit sources when you are researching something for a broadcaster?
+What can happen if you don't identify non legit sources when you are researching something for a broadcaster?
 
 Here is an example, a company called Dough Chemical, is responsible for spillage in India, a researcher at BBC world was asked to get a spoke person for the company for a live studio interview.
 
@@ -19,7 +19,7 @@ And here is what was happening behind the scene
 
 <!--  tip: fast forward to min 26:25 to see the behind the scene of the BBC world interview, for some context. -->
 
-### So, What went wrong for the researcher?
+## What went wrong for the researcher?
 
 They failed to identify a unreliable source, a fake website, posing as the original.
 
@@ -28,7 +28,7 @@ The fake website:
 http://www.dowethics.com and real website: http://www.dow.com
 
 
-### So, how to check for Reliability?
+## How to check for Reliability?
 
 1. **Check URL**, and weather it sounds right  for instance rather then Dowethics.com you are more likely to find dow.com/ethics.
 
@@ -44,7 +44,7 @@ http://www.dowethics.com and real website: http://www.dow.com
 
 
 
-### Another examples
+## Another examples
 
 Is with the world trade organization , Real website:  [wto.org](http://www.wto.org/) - fake: [gatt.org](http://www.gatt.org/) .
 
