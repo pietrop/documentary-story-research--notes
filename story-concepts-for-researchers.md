@@ -1,6 +1,6 @@
 # Story Concepts For Researchers
 
-## What makes a good story?
+What makes a good story?
 
 Some things to consider:
 
@@ -23,9 +23,10 @@ Pitching Verbally: Hook and Concise
 
 identify the USP = Unique Selling Point
 
-### Broadcast Examples
+## Broadcast Examples
 
-Clip example 4  
+<!-- Clip example 4  -->
+
 C4 "Educating Essex" s01e01 - min 02:10 Pause  
 example of great Access
 
