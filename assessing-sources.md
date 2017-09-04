@@ -28,7 +28,6 @@ The fake website:
 http://www.dowethics.com and real website: http://www.dow.com
 
 
-
 ### So, how to check for Reliability?
 
 1. **Check URL**, and weather it sounds right  for instance rather then Dowethics.com you are more likely to find dow.com/ethics.
