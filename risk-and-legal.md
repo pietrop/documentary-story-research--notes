@@ -24,7 +24,7 @@ gives editorial protection but you still be sued for deffamation or libel
 to avoid stick to the facts
 
 
-## “In the pubblic interest” 
+## "In the pubblic interest" 
 
 concept of “In the pubblic interest” can be used when the following applies :
 
