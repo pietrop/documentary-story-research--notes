@@ -50,15 +50,5 @@ For instance 24hours in A&E - For example of Story Telling.
 
 
 
-## Sources and Resources
 
-Christopher Booker's anatomy of the story, “The Seven Basic Plots”.
-
-Robert McKee Story Books
-
-american woman's workshop
-
-BBC Course - Production Research
-
-Pam - Website
 
