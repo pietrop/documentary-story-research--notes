@@ -165,7 +165,7 @@ Documentary:
 
 Book:
 
-[Research for Media Production](http://www.amazon.co.uk/gp/product/0240516486/ref=oh_details_o02_s00_i00)
+Research for Media Production
 
 , Kathy Chater
 
