@@ -60,7 +60,7 @@ Here is the behind the scenes:
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YoZQNgAnvqs?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-It also had a fake website associated with it [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition.
+It also had a fake website associated with it [NYtime-se.com](http://www.nytimes-se.com/) -where `se` was meant to stand as a special edition.
 
 
 ## Sources and Resources:
