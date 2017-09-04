@@ -2,24 +2,36 @@
 
 ## Research Brief how to write it
 
+
+Objective of a research brief is to convey/to communicate to the team 10%
+
 ![iceberg](/assets/iceberg.jpg)
 
-Objective of a research brief is to convey/to communicate to the team 10% \[iceberg diagram with 90% under water \]
+Do not cut and paste from sites, **summaries** and **interpret**.
 
-Do not cut and paste from sites, **summaries** and interpret.
+If needs be have a separate system or file for what you gather during the research process.
 
-if needs be have a separate system or file for what you gather during the research process.
+it should be: 
+- Concise,
+-  Well written, 
+- Accurate, 
+- Clear.
 
-it should be : Concise, Well written, Accurate, Clear.
+<!--
+
+Might need separate system/space for rough draft as you are researching to then clean up in research brief
+
+eg use Zotero as an example.
+snapshot of page + add notes, 
++ generate annotated bibliography. 
+-->
 
 ---
 
 Usually one or two pages, but check it might vary.  
 Depending on it's purpouse, doing it for a “Giest” is shorten then a “Clue Up”.
 
-### Use :
-
-### 
+### Use:
 
 * Headings,  
 * Short Sentences  
@@ -28,9 +40,9 @@ Depending on it's purpouse, doing it for a “Giest” is shorten then a “Clue
 * Use Active Tense \(as makes writing appears dynamic\)  
 * If relevant include pictures and graphs.
 
-### a possible outline for a Research brief:
+### A possible outline for a Research brief:
 
-see [template](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit) similar to the one used by “country farm” and this “morning”.
+See [template](https://docs.google.com/document/d/1soKGoGEz3T1iY4EWaXmo3T0U2QiH5WB_Ue-MHysWUpc/edit) similar to the one used by “country farm” and this “morning”.
 
 1. Title  
 2. Top Line  
