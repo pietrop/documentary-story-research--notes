@@ -17,6 +17,7 @@
   * [casting questions](story-concepts-for-researchers/casting-questions.md)
 * [Assessing sources](assessing-sources.md)
 * [Interviewing techniques](interviewing-techniques.md)
+* [Risk and legal](risk-and-legal.md)
 
 ## Online Research
 
