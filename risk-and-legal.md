@@ -16,8 +16,8 @@ gives editorial protection but you still be sued for deffamation or libel
 
 to avoid stick to the facts
 
-## 4 
-concept of "In the pubblic interest" can be used when the following applies :
+## 4 In the public interest
+concept of "In the public interest" can be used when the following applies :
 - criminal act
 - anger to the public health 
 - misleading 
