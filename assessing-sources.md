@@ -9,7 +9,7 @@ Here is an example, a company called Dough Chemical, is responsible for spillage
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-<!-- tip: watch up to min 00:37 then pause  -->
+
 
 And here is what was happening behind the scene
 
