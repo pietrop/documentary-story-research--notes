@@ -7,6 +7,3 @@ What happens when things go wrong, an example
  A Company called Dough Chemical, is responsible for spillage in India, a researcher at BBC world was asked to get a spoke person for the company for a live studio interview,
 
 Here is the interview: 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
-
