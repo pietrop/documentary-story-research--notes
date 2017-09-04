@@ -8,7 +8,7 @@
 
 Here is the interview: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LiWlvBro9eI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- tip: watch up to min 00:37 then pause  -->
@@ -16,7 +16,7 @@ Here is the interview: 
 and here is what was happening behind the scene:
 
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OazUh0Ym8rc?rel=0&amp;start=1585" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OazUh0Ym8rc?rel=0&amp;start=1585" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -61,7 +61,7 @@ Another example of a oax they did was with a  Fake New York Times, "special ed
 
 Here is the behind the scenes:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YoZQNgAnvqs?rel=0" frameborder="0" allowfullscreen></iframe>  
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YoZQNgAnvqs?rel=0" frameborder="0" allowfullscreen></iframe>  
 
 
 It also had a fake website associated with it  [NYtime-se.com](http://www.nytimes-se.com/) -where “se” was meant to stand as a special edition  .
