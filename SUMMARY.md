@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Smart research principles](smart-research-principles.md)
+  * [sources](smart-research-principles/sources.md)
   * [Reliable sources](smart-research-principles/reliable-sources.md)
   * [The Three programmer hat](smart-research-principles/the-three-programmer-hat.md)
 * [Keeping a research diary ](keeping-a-research-diary.md)
