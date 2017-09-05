@@ -2,7 +2,7 @@
 
 ![glass funnel](/assets/glassfunnel.png)
 
-## Who’s done this research? and what are the relevant organizations?
+## Who has done this research? and what are the relevant organizations?
 
 Sources that might have done same research for a number of reasons. 
 
